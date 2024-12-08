@@ -52,6 +52,18 @@ Certs in one place
 <p></p>
 <img width="555" alt="2024-12-08 12_21_19-UC-09b8a834-950f-49e2-9f88-f21a22f7934c (1) jpg - XnView MP" src="https://github.com/user-attachments/assets/cb9333dd-479d-4e3b-80ce-5c9255219e81">
 <p></p>
+<img width="564" alt="2024-12-08 12_22_13-UC-30fa868a-2698-4f3d-a75d-0fbc72e66580 jpg - XnView MP" src="https://github.com/user-attachments/assets/d483432c-04ed-44bd-a556-de61dc83b105">
+<p></p>
+<img width="558" alt="2024-12-08 12_23_27-UC-33a4579b-dea8-4ee7-928a-5f203ea7d730 jpg - XnView MP" src="https://github.com/user-attachments/assets/48dd3e9d-58f6-424f-bcee-ab25e15192f3">
+<p></p>
+<img width="559" alt="2024-12-08 12_24_02-UC-791b54df-a1ed-4b65-85f8-8cdfea550554 jpg - XnView MP" src="https://github.com/user-attachments/assets/872ee3e9-8fe2-469d-9941-3b2d36f7f98d">
+<p></p>
+<img width="563" alt="2024-12-08 12_24_42-UC-e26e9746-a20e-4816-8b93-f2e7b9060543 jpg - XnView MP" src="https://github.com/user-attachments/assets/4dd46ce1-1683-49ce-9332-d6501317df55">
+<p></p>
+
+The journey continues....
+
+T.
 
 
 
