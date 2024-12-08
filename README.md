@@ -1,7 +1,9 @@
-<img width="564" alt="2024-12-08 12_22_13-UC-30fa868a-2698-4f3d-a75d-0fbc72e66580 jpg - XnView MP" src="https://github.com/user-attachments/assets/7b768864-f19c-419b-aae1-99a2a7e72da5"># Wall-Of-Persistence
+# Wall-Of-Persistence
 Certs in one place
 --------------------------------------------------
-
+<p></p>
+<img width="564" alt="2024-12-08 12_22_13-UC-30fa868a-2698-4f3d-a75d-0fbc72e66580 jpg - XnView MP" src="https://github.com/user-attachments/assets/7b768864-f19c-419b-aae1-99a2a7e72da5">
+<p></p>
 <img width="545" alt="2024-12-08 11_51_59-Ustawienia" src="https://github.com/user-attachments/assets/3ea274b8-1bca-4014-b0f5-40b12727920d">
 <p></p>
 <img width="578" alt="2024-12-08 11_49_55-" src="https://github.com/user-attachments/assets/c8fb25ee-48e9-4641-a76f-04d810577e6a">
