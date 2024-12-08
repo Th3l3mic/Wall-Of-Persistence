@@ -1,5 +1,5 @@
 # Wall-Of-Persistence
-Certs in one place
+=====================
 --------------------------------------------------
 <p></p>
 <img width="545" alt="2024-12-08 11_51_59-Ustawienia" src="https://github.com/user-attachments/assets/3ea274b8-1bca-4014-b0f5-40b12727920d">
