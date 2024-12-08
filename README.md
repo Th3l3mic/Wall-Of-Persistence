@@ -60,7 +60,6 @@ Certs in one place
 <p></p>
 <img width="563" alt="2024-12-08 12_24_42-UC-e26e9746-a20e-4816-8b93-f2e7b9060543 jpg - XnView MP" src="https://github.com/user-attachments/assets/4dd46ce1-1683-49ce-9332-d6501317df55">
 <p></p>
-<img width="564" alt="2024-12-08 12_22_13-UC-30fa868a-2698-4f3d-a75d-0fbc72e66580 jpg - XnView MP" src="https://github.com/user-attachments/assets/7b768864-f19c-419b-aae1-99a2a7e72da5">
 
 The journey continues....
 
