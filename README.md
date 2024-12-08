@@ -46,6 +46,11 @@ Certs in one place
 <p></p>
 <img width="562" alt="2024-12-08 12_17_13-THM-OMUWHJIUIY png - XnView MP" src="https://github.com/user-attachments/assets/dccb8e2f-f1f5-47dc-a84b-07ee13d12e4f">
 <p></p>
+<img width="549" alt="2024-12-08 11_54_23-UC-6e8553d3-6e16-435a-8e5b-fae945423d0e (1) pdf — Mozilla Firefox" src="https://github.com/user-attachments/assets/dd13b56d-c25f-4991-abcc-fe9e903aea12">
+<p></p>
+<img width="560" alt="2024-12-08 11_54_57-UC-7c994874-5de3-464a-99e9-e2ffc156e4da jpg - XnView MP" src="https://github.com/user-attachments/assets/7dc54fed-e2c2-4979-9c45-a754bef0a920">
+<p></p>
+
 
 
 
