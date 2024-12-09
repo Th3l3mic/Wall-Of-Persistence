@@ -20,6 +20,8 @@
 <p></p>
 <img width="517" alt="2024-12-08 11_47_28-tmpDRvZpU html - certificate-of-completion-for-practical-help-desk pdf — Mozilla" src="https://github.com/user-attachments/assets/0409e306-d09f-4b45-94d5-c61dddbae307">
 <p></p>
+<img width="415" alt="2024-12-09 10_25_33-NIS 2 okiem hackera" src="https://github.com/user-attachments/assets/a0077d1f-3465-454c-acb5-f8207dbfe55d">
+<p></p>
 <img width="414" alt="2024-12-08 11_50_24-Dyplom ukończenia Sekurak Academy 2023 (PL) - certyfikat-1 pdf — Mozilla Firefox" src="https://github.com/user-attachments/assets/1004bdf8-5e85-4ab0-99b9-3b5aeedd2761">
 <p></p>
 <img width="421" alt="2024-12-08 11_48_51-Sekurak Academy - Narzędzie i techniki OSINT-owe - certyfikat pdf — Mozilla Fire" src="https://github.com/user-attachments/assets/b1e7989c-0cce-4c48-a6c2-61afe85857cd">
