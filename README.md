@@ -6,6 +6,8 @@
 <p></p>
 <img width="578" alt="2024-12-08 11_49_55-" src="https://github.com/user-attachments/assets/c8fb25ee-48e9-4641-a76f-04d810577e6a">
 <p></p>
+<img width="607" alt="cert privesc" src="https://github.com/user-attachments/assets/9f1dd969-c57e-46a5-a4bf-f5286bda5734">
+<p></p>
 <img width="610" src="https://github.com/user-attachments/assets/027a860f-9401-441c-b2d1-9fde0314f977">
 <p></p>
 <img width="610" alt="2025-02-09 13_28_36-tmpIfcuAn html - certificate-of-completion-for-mobile-application-penetration-te" src="https://github.com/user-attachments/assets/872b00e9-f8a5-4bd2-827d-89ff4776a298" />
