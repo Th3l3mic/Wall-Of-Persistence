@@ -16,7 +16,7 @@
 <p></p>
 <img width="607" alt="tcm" src="https://github.com/user-attachments/assets/d85c7b04-1e6f-4554-9cf4-e2356f788563"/>
 <p></p>
-<img width="682" alt="2024-12-11 11_23_01-tmpd6L625 html" src="https://github.com/user-attachments/assets/b6a4518f-a751-46dd-aa6e-dda45c4052fa">
+<img width="600" alt="2024-12-11 11_23_01-tmpd6L625 html" src="https://github.com/user-attachments/assets/b6a4518f-a751-46dd-aa6e-dda45c4052fa">
 <p></p>
 <img width="519" alt="2024-12-08 11_46_41-tmpCScyhC html - certificate-of-completion-for-practical-api-hacking pdf — Mozil" src="https://github.com/user-attachments/assets/caeb0372-48f5-4621-a4b3-985f63ebf2e9">
 <p></p>
@@ -32,15 +32,19 @@
 <p></p>
 <img width="517" alt="2024-12-08 11_47_28-tmpDRvZpU html - certificate-of-completion-for-practical-help-desk pdf — Mozilla" src="https://github.com/user-attachments/assets/0409e306-d09f-4b45-94d5-c61dddbae307">
 <p></p>
+<img width="518" src="https://github.com/user-attachments/assets/b3ba4764-4e3b-42cf-bcdf-c85d0f9ca968" />
+<p></p>
 <img width="538" alt="2024-12-14 12_50_59-OpenSecurityTraining2 Dbg1011 Certificate _ OpenSecurityTraining2 - certwindb pd" src="https://github.com/user-attachments/assets/657d6b4e-56e9-4623-b044-4d4a2ac4a252" />
 <p></p>
-<img src="https://github.com/user-attachments/assets/d1f510e6-d7a4-44ad-b432-b27759dc178a" />
+<img width="517" src="https://github.com/user-attachments/assets/d1f510e6-d7a4-44ad-b432-b27759dc178a" />
 <p></p>
-<img width="415" alt="2024-12-09 10_25_33-NIS 2 okiem hackera" src="https://github.com/user-attachments/assets/a0077d1f-3465-454c-acb5-f8207dbfe55d">
+<img width="517" src="https://github.com/user-attachments/assets/b3ba4764-4e3b-42cf-bcdf-c85d0f9ca968" />
 <p></p>
-<img width="414" alt="2024-12-08 11_50_24-Dyplom ukończenia Sekurak Academy 2023 (PL) - certyfikat-1 pdf — Mozilla Firefox" src="https://github.com/user-attachments/assets/1004bdf8-5e85-4ab0-99b9-3b5aeedd2761">
+<img width="515" alt="2024-12-09 10_25_33-NIS 2 okiem hackera" src="https://github.com/user-attachments/assets/a0077d1f-3465-454c-acb5-f8207dbfe55d">
 <p></p>
-<img width="421" alt="2024-12-08 11_48_51-Sekurak Academy - Narzędzie i techniki OSINT-owe - certyfikat pdf — Mozilla Fire" src="https://github.com/user-attachments/assets/b1e7989c-0cce-4c48-a6c2-61afe85857cd">
+<img width="514" alt="2024-12-08 11_50_24-Dyplom ukończenia Sekurak Academy 2023 (PL) - certyfikat-1 pdf — Mozilla Firefox" src="https://github.com/user-attachments/assets/1004bdf8-5e85-4ab0-99b9-3b5aeedd2761">
+<p></p>
+<img width="511" alt="2024-12-08 11_48_51-Sekurak Academy - Narzędzie i techniki OSINT-owe - certyfikat pdf — Mozilla Fire" src="https://github.com/user-attachments/assets/b1e7989c-0cce-4c48-a6c2-61afe85857cd">
 <p></p>
 <img width="413" alt="2024-12-08 11_51_00-Dlaczego hackowanie sieci jest proste_ - certyfikatsekurak pdf — Mozilla Firefox" src="https://github.com/user-attachments/assets/22a198fe-ecbb-4c33-9ee0-162244700cc9">
 <p></p>
