@@ -38,8 +38,7 @@
 <p></p>
 <img width="517" src="https://github.com/user-attachments/assets/d1f510e6-d7a4-44ad-b432-b27759dc178a" />
 <p></p>
-<img width="517" src="https://github.com/user-attachments/assets/b3ba4764-4e3b-42cf-bcdf-c85d0f9ca968" />
-<p></p>
+
 <img width="515" alt="2024-12-09 10_25_33-NIS 2 okiem hackera" src="https://github.com/user-attachments/assets/a0077d1f-3465-454c-acb5-f8207dbfe55d">
 <p></p>
 <img width="514" alt="2024-12-08 11_50_24-Dyplom ukończenia Sekurak Academy 2023 (PL) - certyfikat-1 pdf — Mozilla Firefox" src="https://github.com/user-attachments/assets/1004bdf8-5e85-4ab0-99b9-3b5aeedd2761">
