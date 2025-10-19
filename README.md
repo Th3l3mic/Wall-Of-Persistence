@@ -10,6 +10,8 @@
 <p></p>
 <img src="https://github.com/user-attachments/assets/9fa2eb64-a4e8-4dee-bd3b-6dc466338855"/>
 <p></p>
+<img src="https://github.com/user-attachments/assets/a526a602-8e77-4902-a860-8018961ef5dc"/>
+<p></p>
 <img width="578" alt="2024-12-08 11_49_55-" src="https://github.com/user-attachments/assets/c8fb25ee-48e9-4641-a76f-04d810577e6a">
 <p></p>
 <img width="607" alt="cert privesc" src="https://github.com/user-attachments/assets/9f1dd969-c57e-46a5-a4bf-f5286bda5734">
