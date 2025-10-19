@@ -2,6 +2,8 @@
 =====================
 --------------------------------------------------
 <p></p>
+<img src="https://github.com/user-attachments/assets/5cd86404-47fd-4274-8d64-15b00bc7675d"/>
+<p></p>
 <img width="545" alt="2024-12-08 11_51_59-Ustawienia" src="https://github.com/user-attachments/assets/3ea274b8-1bca-4014-b0f5-40b12727920d">
 <p></p>
 <img width="578" alt="2024-12-08 11_49_55-" src="https://github.com/user-attachments/assets/c8fb25ee-48e9-4641-a76f-04d810577e6a">
