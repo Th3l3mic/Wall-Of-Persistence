@@ -6,6 +6,8 @@
 <p></p>
 <img width="1336" height="1017" alt="crt" src="https://github.com/user-attachments/assets/e31f6318-6f65-44b2-820f-f227e8f5bf4a" />
 <p></p>
+<img width="400" height="400" alt="assertion-D1BJzGF0Sk6UBHKlm2DiXQ" src="https://github.com/user-attachments/assets/fb760a5f-34d9-4c05-b08a-c3ea776348d5" />
+<p></p>
 <img width="545" alt="2024-12-08 11_51_59-Ustawienia" src="https://github.com/user-attachments/assets/3ea274b8-1bca-4014-b0f5-40b12727920d">
 <p></p>
 <img src="https://github.com/user-attachments/assets/5cd86404-47fd-4274-8d64-15b00bc7675d"/>
