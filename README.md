@@ -2,6 +2,8 @@
 =====================
 --------------------------------------------------
 
+<p><img width="600" height="400" alt="certyfikat crtp" src="https://github.com/user-attachments/assets/b1f4f668-12ff-4e09-a132-29d0eea4eacc" /></p>
+<p></p>
 <p><img width="600" height="424" alt="gbagg6qw_1773928405015" src="https://github.com/user-attachments/assets/ddfa3f15-735e-480f-bef8-c119a1c8dc53" /></p>
 <p></p>
 <img width="1336" height="1017" alt="crt" src="https://github.com/user-attachments/assets/e31f6318-6f65-44b2-820f-f227e8f5bf4a" />
